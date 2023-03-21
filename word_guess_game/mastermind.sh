@@ -12,8 +12,7 @@ Fiverr: https://www.fiverr.com/share/RxZXwR
 '
 
 
-# echo a random word with given length
-# get the specific length as the arguement
+# give a random word
 random_word () {
 	# word length
 	available_lengths=( 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 )
